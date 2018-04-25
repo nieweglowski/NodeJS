@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nieweglowski/NodeJS/issues"
   },
-  "homepage": "https://github.com/nieweglowski/NodeJS#readme"
+  "homepage": "https://github.com/nieweglowski/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
 }
