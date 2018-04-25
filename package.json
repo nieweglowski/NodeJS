@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nieweglowski/NodeJS.git"
+  },
+  "author": "Kamil Nieweglowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nieweglowski/NodeJS/issues"
+  },
+  "homepage": "https://github.com/nieweglowski/NodeJS#readme"
+}
